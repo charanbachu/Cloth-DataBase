@@ -18,4 +18,4 @@ Description:
 	4) Once customer buys the dresses from the showroom they have to bill
 	5) There will be ID for every product and if there is offer for a product then discounted money is automatically reduced from the total money
 	6) Offers has start and end date.Once the end date is completed then auomatically offer is removed.
-	7) If a customer buys products automatically total number of products will be decreased and so many additional features have been implemented.
+	7)if a customer buys products automatically total number of products will be decreased.
